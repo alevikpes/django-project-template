@@ -1,0 +1,6 @@
+*.env
+*.py[co]
+*.swp
+
+environments/
+temp/
